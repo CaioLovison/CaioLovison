@@ -1,6 +1,7 @@
 # 👋 Prazer, eu sou o Caio
- 
-💻 Áreas de interesse: Desenvolvimento Web, Banco de dados e JS.  
+
+Cursando Ensino Medio Tecnico em Informatica para Internet
+Interesse nas areas dé Desenvolvimento Web, Banco de dados e JS.  
  
 ---
  
