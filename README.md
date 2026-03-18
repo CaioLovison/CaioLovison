@@ -14,7 +14,7 @@
    Calendario web utilizado Js, Css e Html
  
 - **[Relógio]()**
--  Relógio feito utilizado as funções Js, Css e Html  
+   Relógio feito utilizado as funções Js, Css e Html  
 
  
 ---
